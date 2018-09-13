@@ -11,7 +11,7 @@ PlayTab::PlayTab(QWidget *parent) : QTabWidget(parent),
     m_genreTab(new GenreTab (this)),
     m_webTab(new WebTab (this)),
     m_listTab(new ListTab (this)),
-    m_lastIndex(-1)
+    m_lastIndex(0)
 {
     //set custom tabBar
     NewTabBarOfPlayTab *newTabBar = new NewTabBarOfPlayTab (this);
@@ -44,6 +44,8 @@ PlayTab::PlayTab(QWidget *parent) : QTabWidget(parent),
     setStyleSheet("border: 0px;");
     setIconSize(QSize(40,40));
     connect(this,&PlayTab::currentChanged,this,&PlayTab::changeIconFont);
+    setTabIcon(0,QIcon(":/image/src/category/song1.png"));
+
 
 }
 
