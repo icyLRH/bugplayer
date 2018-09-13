@@ -262,16 +262,15 @@ void DefaultTab::dragEnterEvent(QDragEnterEvent *event)
     //read information
     if(mimeData->hasUrls())
     {
-
         //dispose every url
         for(int i = 0; i < mimeData->urls().size(); i++)
         {
             //get name suffix
-            QString suffix = mimeData->urls()[0].fileName().right(3);
+            QString suffix = mimeData->urls()[i].fileName().right(3);
 
             ////now, it is only supposed to accept *.mp3
             //compare, when equals, return 0
-            if(suffix.compare("mp3",Qt::CaseInsensitive)<0)
+            if(!suffix.compare("mp3") == 0)
             {
 
                 //if a file's suffix is not mp3, do not accept at all
@@ -282,6 +281,7 @@ void DefaultTab::dragEnterEvent(QDragEnterEvent *event)
 
         //if don't return, indicate all are *.mp3, acceptProposedAction
         event->acceptProposedAction();
+
     }
 
     //else, there is no urls
