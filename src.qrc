@@ -1,0 +1,131 @@
+<RCC>
+    <qresource prefix="/Icon">
+        <file>src/Icon/BugPlayer.png</file>
+        <file>src/Icon/BugPlayer2.png</file>
+        <file>src/Icon/BugPlayer1.png</file>
+        <file>src/Icon/BugPlayer3.png</file>
+        <file>src/Icon/BugPlayer4.png</file>
+        <file>src/Icon/BugPlayer0.ico</file>
+    </qresource>
+    <qresource prefix="/image">
+        <file>src/bottomwidget/btn_favorite_no (1).png</file>
+        <file>src/bottomwidget/btn_favorite_no (2).png</file>
+        <file>src/bottomwidget/btn_favorite_no (3).png</file>
+        <file>src/bottomwidget/btn_favorite_yes (1).png</file>
+        <file>src/bottomwidget/btn_favorite_yes (2).png</file>
+        <file>src/bottomwidget/btn_favorite_yes (3).png</file>
+        <file>src/bottomwidget/btn_listcircle (1).png</file>
+        <file>src/bottomwidget/btn_listcircle (2).png</file>
+        <file>src/bottomwidget/btn_listjump (1).png</file>
+        <file>src/bottomwidget/btn_listjump (2).png</file>
+        <file>src/bottomwidget/btn_listrandom (1).png</file>
+        <file>src/bottomwidget/btn_listrandom (2).png</file>
+        <file>src/bottomwidget/btn_listscircle_single (1).png</file>
+        <file>src/bottomwidget/btn_listscircle_single (2).png</file>
+        <file>src/bottomwidget/btn_listsingle (1).png</file>
+        <file>src/bottomwidget/btn_listsingle (2).png</file>
+        <file>src/bottomwidget/btn_lrc (1).png</file>
+        <file>src/bottomwidget/btn_lrc (2).png</file>
+        <file>src/bottomwidget/btn_lrc (3).png</file>
+        <file>src/bottomwidget/btn_lrc (4).png</file>
+        <file>src/bottomwidget/btn_next (1).png</file>
+        <file>src/bottomwidget/btn_next (2).png</file>
+        <file>src/bottomwidget/btn_next (3).png</file>
+        <file>src/bottomwidget/btn_next (4).png</file>
+        <file>src/bottomwidget/btn_pause (1).png</file>
+        <file>src/bottomwidget/btn_pause (2).png</file>
+        <file>src/bottomwidget/btn_pause (3).png</file>
+        <file>src/bottomwidget/btn_pause (4).png</file>
+        <file>src/bottomwidget/btn_play (1).png</file>
+        <file>src/bottomwidget/btn_play (2).png</file>
+        <file>src/bottomwidget/btn_play (3).png</file>
+        <file>src/bottomwidget/btn_play (4).png</file>
+        <file>src/bottomwidget/btn_previous (1).png</file>
+        <file>src/bottomwidget/btn_previous (2).png</file>
+        <file>src/bottomwidget/btn_previous (3).png</file>
+        <file>src/bottomwidget/btn_previous (4).png</file>
+        <file>src/trayMenu/menu_close.png</file>
+        <file>src/trayMenu/menu_lock.png</file>
+        <file>src/trayMenu/menu_log.png</file>
+        <file>src/trayMenu/menu_lrc.png</file>
+        <file>src/trayMenu/menu_next (1).png</file>
+        <file>src/trayMenu/menu_next (2).png</file>
+        <file>src/trayMenu/menu_next (3).png</file>
+        <file>src/trayMenu/menu_next (4).png</file>
+        <file>src/trayMenu/menu_pause (1).png</file>
+        <file>src/trayMenu/menu_pause (2).png</file>
+        <file>src/trayMenu/menu_pause (3).png</file>
+        <file>src/trayMenu/menu_pause (4).png</file>
+        <file>src/trayMenu/menu_play (1).png</file>
+        <file>src/trayMenu/menu_play (2).png</file>
+        <file>src/trayMenu/menu_play (3).png</file>
+        <file>src/trayMenu/menu_play (4).png</file>
+        <file>src/trayMenu/menu_previous (1).png</file>
+        <file>src/trayMenu/menu_previous (2).png</file>
+        <file>src/trayMenu/menu_previous (3).png</file>
+        <file>src/trayMenu/menu_previous (4).png</file>
+        <file>src/trayMenu/menu_setting.png</file>
+        <file>src/middlewidget/btn_addtips (1).png</file>
+        <file>src/middlewidget/btn_addtips (2).png</file>
+        <file>src/middlewidget/btn_addtips (3).png</file>
+        <file>src/middlewidget/btn_addtips (4).png</file>
+        <file>src/middlewidget/btn_cloud (1).png</file>
+        <file>src/middlewidget/btn_cloud (2).png</file>
+        <file>src/middlewidget/btn_cloud (3).png</file>
+        <file>src/middlewidget/btn_cross (1).png</file>
+        <file>src/middlewidget/btn_cross (2).png</file>
+        <file>src/middlewidget/btn_cross (3).png</file>
+        <file>src/middlewidget/btn_cross (4).png</file>
+        <file>src/middlewidget/btn_del (1).png</file>
+        <file>src/middlewidget/btn_del (2).png</file>
+        <file>src/middlewidget/btn_del (3).png</file>
+        <file>src/middlewidget/btn_del (4).png</file>
+        <file>src/middlewidget/btn_islove (1).png</file>
+        <file>src/middlewidget/btn_islove (2).png</file>
+        <file>src/middlewidget/btn_islove (3).png</file>
+        <file>src/middlewidget/btn_love (1).png</file>
+        <file>src/middlewidget/btn_love (2).png</file>
+        <file>src/middlewidget/btn_love (3).png</file>
+        <file>src/middlewidget/btn_love (4).png</file>
+        <file>src/middlewidget/btn_music (1).png</file>
+        <file>src/middlewidget/btn_music (2).png</file>
+        <file>src/middlewidget/btn_music (3).png</file>
+        <file>src/topwidget/btn_close (1).png</file>
+        <file>src/topwidget/btn_close (2).png</file>
+        <file>src/topwidget/btn_close (3).png</file>
+        <file>src/topwidget/btn_mini (1).png</file>
+        <file>src/topwidget/btn_mini (2).png</file>
+        <file>src/topwidget/btn_mini (3).png</file>
+        <file>src/topwidget/btn_refresh(1).png</file>
+        <file>src/topwidget/btn_refresh(2).png</file>
+        <file>src/topwidget/btn_refresh(3).png</file>
+        <file>src/topwidget/btn_search (1).png</file>
+        <file>src/topwidget/btn_search (2).png</file>
+        <file>src/topwidget/btn_search (3).png</file>
+        <file>src/topwidget/btn_skin (1).png</file>
+        <file>src/topwidget/btn_skin (2).png</file>
+        <file>src/topwidget/btn_skin (3).png</file>
+        <file>src/topwidget/btn_tool (1).png</file>
+        <file>src/topwidget/btn_tool (2).png</file>
+        <file>src/topwidget/btn_tool (3).png</file>
+        <file>src/topwidget/btn_tool (4).png</file>
+        <file>src/skin/dafault.png</file>
+        <file>src/category/ablum.png</file>
+        <file>src/category/artist.png</file>
+        <file>src/category/genre.png</file>
+        <file>src/category/playlist.png</file>
+        <file>src/category/song.png</file>
+        <file>src/category/store.png</file>
+        <file>src/skin/skin.png</file>
+        <file>src/skin/checkAndSign.png</file>
+        <file>src/category/ablum1.png</file>
+        <file>src/category/artist1.png</file>
+        <file>src/category/genre1.png</file>
+        <file>src/category/playlist1.png</file>
+        <file>src/category/song1.png</file>
+        <file>src/category/store1.png</file>
+        <file>src/bottomwidget/btn_listcircle (3).png</file>
+        <file>src/bottomwidget/btn_listrandom (3).png</file>
+        <file>src/bottomwidget/btn_listscircle_single (3).png</file>
+    </qresource>
+</RCC>
